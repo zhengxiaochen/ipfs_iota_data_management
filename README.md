@@ -2,8 +2,6 @@
 Data storing and sharing using IOTA Tangle and IPFS
 
 /*
-Author: Xiaochen Zheng (xiaochen.zheng@epfl.ch)
-
 This ipfs_mam_publish.js script realizes the following tasks:
 1) Read a file (or files) from a local folder
 2) Encode the content to Trytes with iota API and encrypt the Trytes using MAM, return encrypted content and root1.
