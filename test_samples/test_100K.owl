@@ -1,0 +1,2102 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns="http://www.owl-ontologies.com/unnamed.owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xml:base="http://www.owl-ontologies.com/unnamed.owl">
+  <owl:Ontology rdf:about=""/>
+  <owl:Class rdf:ID="propertyIns_objectPropertyIns_objProperty_name211111101111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_ActorFunction11191111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRole_graphRole_CapellaDetailInterfaceDiagram_CapellaProvideOutput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_CapellaDetailInterfaceDiagram111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_Capella_System_599093561111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_IMProvesTARrt_393449061111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_ABLIGENStAr_91416100111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_Capella_ContextualCapability_Capella_CapabilityGeneralization1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationship_CapellaGenrealization1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_CapellaEvent.png"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_CapellaData_448575941111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_IMPOPT_672590511111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationship_CapellaAcquire1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_CapellaUndefinedExchange_224271801111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_GGTsTART_336890161111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_LogicalArchitectureBlank_LogicalComponent1_8953215511111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__8803363711111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_CIBD_Capella_CS_748567771111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_CONIN3_715325541111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_150,101,140,70"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_OperationalEntity_386042651111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_GGEtOOutt_669561401111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_FunctionalScenario_PhysicalFunction1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_FunctionalScenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaCII_CapellaEvent1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_CapellaCII1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_Capella_Role_562564561111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_GGEtOOutt_044657641111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_Capella_EntryPoint1_729487741111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_GGEtOOutt_669561401111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_OperationalActor1_97066921111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__36730997111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_LogicalComponent_286377831111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_SEnddout_691547221111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint271121111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_OperationalActor11121111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_FUNctionEXCINpyt_86577533111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_Capella_SystemFunctionDataflowBlankDiagram_Afunctionexchange1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRel_graphRel_CapellaCII_CapellaTransmit1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaCII1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_OperationalActor_034427281111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_UUUSEOPT_616373081111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_LogicalComponent_055608181111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_SEnddout_482836251111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_CapellaFlow_229371431111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_GGEtOOutt_669561401111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_CapellaInteractionOutput111231111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_relationship_Afunctionexchange111141111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_479,203"/>
+  <owl:Class rdf:about="#text_2,295,400,309,310"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_ModeStateMachineDiagram_Capella_join_199920951111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_ExcessiveTerminal_503720251111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaInterfaceScenario_SystemFunction1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_CapellaInterfaceScenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_ModeStateMachineDiagram_Capella_ShallowHistory_462501281111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_Overinitiation_856077971111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_CapellaData1_95533510111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__71983036111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_924,432"/>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaInterfaceScenario_Capella_System1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaInterfaceScenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_objectPropertyIns_objProperty_name91111114111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_LogicalComponent11113111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_OperationalActor_463978221111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_IMPOPT_672590511111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_448,133"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_OperationalActor_612952201111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_SEnddout_482836251111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRole_graphRole_CapellaCII_CapellaProvideOutput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaCII1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_graph_objectIns_object_OperationalEntity121111111111"/>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint23111112211111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="object_Capella_Terminate1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graph_Capella_OperationalActivityBreakdownDiagram1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="rolePoint_rolePoint_metaObjPoint_ExitPoint1_69261647111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_FUNctionEXCINpyt_28465278111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaCEI_OperationalActor1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_CapellaCEI1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_model_Capella_LogicalArchitectureBlank131111111111"/>
+  <owl:Class rdf:ID="model_model_Capella_LogicalArchitectureBlank131111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_OperationalEntityscenario1_Capella_Role1_36192212111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__53028961111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_燃料系统参数"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_CapellaFlow_121081161111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_REQUouT_219489641111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graph_Capella_PhysicalFunctionBreakdown1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output11111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_NodePC1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_924,414"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_OperationalEntityscenario1_OperationalEntity1_98316663111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__67889251111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_89,112,140,70"/>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_relationship_Afunctionexchange11161111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_model_Capella_LogicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_255,50"/>
+  <owl:Class rdf:about="#text_2,237,238,145,229"/>
+  <owl:Class rdf:ID="text_计算功率"/>
+  <owl:Class rdf:about="#text_182,204"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_Capella_Role_581028581111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_GGEtOOutt_669561401111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_103,259"/>
+  <owl:Class rdf:about="#text_54,42"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_SYS3FUNCton11_34166761111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_INcluDDEOUputt_97581847111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_做功计算参数"/>
+  <owl:Class rdf:ID="graphRole_graphRole_OTO351111111111111">
+    <rdfs:subClassOf rdf:resource="#graph_Capella_PhysicalFunctionBreakdown1111111111111"/>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_FunctionalScenario_Capella_Operator1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_Capella_FunctionalScenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_CapellaEvent1_82876568111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__37903187111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#graphRel_graphRel_Capella_ContextualCapability_Capella_CapabilityGeneralization1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_ContextualCapability1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_CapellaInterface1_15734091111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__23774865111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_提供始端"/>
+  <owl:Class rdf:about="#text_2,158,157,297,217"/>
+  <owl:Class rdf:ID="propertyIns_relationshipPropertyIns_metaProperty_NNAMEE911111111111311">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean11111111111311"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_ContextualCapability_Capella_mission1_92219217111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_DES3in_32947791111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint16411111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_OperationalActor1521111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_Capella_Capability1.png"/>
+  <owl:Class rdf:ID="role_CapellaAssociationInput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_Capella_System2_54881950111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__36730997111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_objectPropertyIns_objProperty_name61111121111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_LogicalFunction11121111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_2,323,328,182,288"/>
+  <owl:Class rdf:ID="text_内含"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_CapellaData1_50357687111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__01361779111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRole_graphRole_CapellaCEI_CapellaImplementsInput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaCEI1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_CapellaData_248787901111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_IMPOPT_511436551111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_OperationalEntityscenario1_Capella_Operator1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_OperationalEntityscenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_CapellaData1_92346166111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__61723999111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyOfMeta_metaProperty_property_Name171111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationship_Capella_Interaction11111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_515,88,140,70"/>
+  <owl:Class rdf:ID="roleObj_roleObj_ACT22111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_3FRO651111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_46,181"/>
+  <owl:Class rdf:ID="graph_Capella_LogicalArchitectureBlank11111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="role_Capella_CapabilityExploitationin111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_479,273"/>
+  <owl:Class rdf:about="#text_PFBD&lt;&amp;space&gt;物理功能分解图"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_CapellaOperation1_43021255111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__01361779111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_graph_objectIns_object_LogicalComponent1111111111111"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_OperationalArchitectureDiagram_OperationalActivity1_3051710911111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__3428600711111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint151111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_Capella_System21111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint111111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_ActorFunction11111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="objPoint_metaObjPoint_Input1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="object_object_PhysicalFunction1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_CapellaEvent1_41740113111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__23774865111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationship_CapellaImplements1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_INNESTEA_96278436111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_Capella_SystemFunctionDataflowBlankDiagram_Capella_InternallyContained1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="role_ContainedInInput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyOfMeta_metaProperty_property_Name135121111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="object_Capella_Interface1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_objectPropertyIns_objProperty_name711411111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_OperationalActivity1321111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_CapellaEvent1_36397041111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__39915644111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_PHY3FUNC11_08870539111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_INcluDDEOUputt_43797854111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaCII_OperationalActor1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaCII1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111134">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_graph_objectIns_object_NodePC11111111111115"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction11111111111118"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111135">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_NodePC11111111111115"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111112">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction11111111111118"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111136">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_NodePC11111111111115"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111137">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111110">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction11111111111119"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_NodePC_615825631111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_GGTsTART_336890161111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111130">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_参与"/>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111131">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111132">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_NodePC11111111111115"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111133">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_NodePC11111111111115"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111138">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="role_CapellaMessageOutput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111139">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_OperationalEntityscenario1_Capella_Role1_25454437111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__93021379111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_AcYtoFOn31_58911226111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_FUNctionEXCINpyt_14823546111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_PhysicalArchitectureBlank1_ActorFunction1_2568991711111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_FUNCCCEXCOPT_9466027611111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_CapellaUndefinedExchange_124448501111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_DELAIN3_016452341111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111140">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_CIBD_Capella_CS1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_CIBD1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111101111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_model_Capella_LogicalArchitectureBlank1101111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_1053,405"/>
+  <owl:Class rdf:ID="text_空气压力"/>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111145">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111122">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111117"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111123">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111116"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111146">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111120">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111118"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111147">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_OperationalEntityscenario1_OperationalEntity1_52398643111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__37761282111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111148">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111121">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111117"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_OperationalActor_582590641111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_DELOUTT_328262391111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_SNEDIn_734122061111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_CapellaCEI_CapellaTransmit1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111141">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111142">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111143">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_graph_objectIns_object_NodePC11111111111112"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111144">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_NodePC11111111111112"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint121114111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_LogicalComponent11114111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111149">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_ModeStateMachineDiagram_Capella_State_085363301111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_Overinitiation_856077971111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="object_Capella_System2111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="rolePoint_rolePoint_metaObjPoint_Capella_EntryPoint2111_107507501111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__0044875911111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_OperationalActivityInteractionDiagram_OperationalActivity1_72812585111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_STIGEXCINN_80511144111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_Capella_InteractionInput111141111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_relationship_Afunctionexchange11151111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111119">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111115"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111117">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111113"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_objectPropertyIns_objProperty_name11111111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_SystemFunction1113111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111118">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111114"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111115">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111112"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111116">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111112"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111113">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111110"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111114">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_444,28"/>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111133">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111125"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111112">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_graph_objectIns_object_LogicalComponent1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111113">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_LogicalComponent1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111134">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111126"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111131">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111124"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111114">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_LogicalComponent1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111132">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111125"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111115">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111130">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111123"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111110">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_LogicalComponent1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_LogicalComponent1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_79,297,187,255"/>
+  <owl:Class rdf:ID="text_压气机模型"/>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111116">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111117">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111118">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRel_graphRel_CapellaInterfaceScenario_Capella_Timer1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaInterfaceScenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111119">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_NodePC11111111111112"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graph_OperationalActivityInteractionDiagram1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_282,288,140,70"/>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaCII_NodePC1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaCII1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint26111211111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_Capella_System21111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_2,572,812,593,762"/>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111128">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111121"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111129">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111122"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_Capella_InteractionInput111151111111111">
+    <rdfs:subClassOf rdf:resource="#relationshipIns_relationshipIns_relationship_Afunctionexchange11161111111111"/>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111126">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111120"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111127">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111121"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_使用始端"/>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111124">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111115"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111125">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111119"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111123">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_graph_objectIns_object_NodePC11111111111114"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111124">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_NodePC11111111111114"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_泛化终端"/>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean11111111131111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_LogicalArchitectureBlank1101111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111125">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_NodePC11111111111114"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111126">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_NodePC11111111111114"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_graph_objectIns_object_OperationalActor1611111111111"/>
+  <owl:Class rdf:about="#relRole_relRole__71983036111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_CapellaDetailInterfaceDiagram_CapellaTransmit1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111140">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111129"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="objectIns_objectIns_object_LogicalFunction11141111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_model_Capella_LogicalArchitectureBlank11111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111141">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111124"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111120">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_NodePC11111111111112"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111121">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_NodePC11111111111112"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111122">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_SystemArchitectureDiagram_ActorFunction1_6280305811111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__1430488611111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111127">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_NodePC11111111111114"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111128">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_NodePC11111111111114"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean111111111111129">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="model_model_Capella_SystemArchitectureDiagram11111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_ACTGENoUTPP_88924236111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_ACT3GENN21111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_383,196"/>
+  <owl:Class rdf:ID="model_model_Capella_PhysicalDataFlowBlank11111111111119">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="model_model_Capella_PhysicalDataFlowBlank11111111111118">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_OperationalActor_682971951111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_GENOPT_048550711111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="model_model_Capella_PhysicalDataFlowBlank11111111111117">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="model_model_Capella_PhysicalDataFlowBlank11111111111116">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="model_model_Capella_PhysicalDataFlowBlank11111111111115">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="model_model_Capella_PhysicalDataFlowBlank11111111111114">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="object_Behavior_PC1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_94,98"/>
+  <owl:Class rdf:ID="graphRole_graphRole_Capella_OAS_CapellaInteractionOutput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_OAS1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="model_model_Capella_PhysicalDataFlowBlank11111111111113">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_Capella_Role_196107791111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_GENSTA_706027921111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111139">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111130"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111137">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111128"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_FunctionalScenario_ActorFunction_465423121111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_ExchAngggeiinn_469800481111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111138">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111129"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_角色"/>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111135">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111120"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input111111111111136">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction111111111111127"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRole_graphRole_CapellaCEI_CapellaRequiresInput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaCEI1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole__78914073111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_CapellaDetailInterfaceDiagram_CapellaRequires1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_11122">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="objectIns_objectIns_object_LogicalFunction11131111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_LogicalArchitectureBlank11111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_11121">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input11111111111115"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_objectPropertyIns_objProperty_name21111171111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_ActorFunction11161111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_model_Capella_PhysicalDataFlowBlank11111111111118"/>
+  <owl:Class rdf:ID="text_model_Capella_PhysicalDataFlowBlank11111111111117"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_OperationalEntityscenario1_OperationalActor1_22120822111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__75118720111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_model_Capella_PhysicalDataFlowBlank11111111111119"/>
+  <owl:Class rdf:ID="text_model_Capella_PhysicalDataFlowBlank11111111111114"/>
+  <owl:Class rdf:ID="text_model_Capella_PhysicalDataFlowBlank11111111111113"/>
+  <owl:Class rdf:ID="text_model_Capella_PhysicalDataFlowBlank11111111111116"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_CapellaData_285125021111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_GGEtOOutt_669561401111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_model_Capella_PhysicalDataFlowBlank11111111111115"/>
+  <owl:Class rdf:ID="text_model_Capella_PhysicalDataFlowBlank11111111111112"/>
+  <owl:Class rdf:ID="text_model_Capella_PhysicalDataFlowBlank11111111111111"/>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_CIBD_Capella_System11111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_Capella_CIBD1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_554,48,225,138"/>
+  <owl:Class rdf:ID="text_燃烧产物获取"/>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_210111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint2915111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_362,273"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_ModesAndStateMachinediagram_Capella_ShallowHistory_067182061111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_ExcessiveTerminal_892275101111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_SystemActor_Capella_System1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_SystemActor1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_PDFB&lt;&amp;space&gt;物理数据流图&lt;&amp;space&gt;进气系统物性"/>
+  <owl:Class rdf:ID="graphObj_graphObj_ACTORFuNCtion31111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_PhysicalDataFlowBlank1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaDetailInterfaceDiagram_Capella_Role1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaDetailInterfaceDiagram111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_2,835,655,305,140"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_Capella_System2_13479763111111111111">
+    <rdfs:subClassOf rdf:resource="#relRole_relRole__78914073111111111111"/>
+  </owl:Class>
+  <owl:Class rdf:ID="text_object_BehaviorPC1.png"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_Capella_ExitPoint_148259761111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_IMPLsTaRRT_743650981111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_BehaviorPC_751322461111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_REQUouT_219489641111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_Capella_EntryPoint1_899011321111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_UUUSEOPT_970250281111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_576,243"/>
+  <owl:Class rdf:about="#text_392,1428"/>
+  <owl:Class rdf:about="#text_204,207,140,70"/>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_graph_objectIns_object_LogicalComponent1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaInterfaceScenario_Capella_State1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaInterfaceScenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_HINTO_443981921111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_Capella_ORB_Capella_InternallyContained1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_247,223"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_BehaviorPC_897051001111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_DELOUTT_328262391111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_CapellaInteractionOutput11111111111119">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean11111111111119"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_CapellaInteractionOutput11111111111118">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean11111111111118"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_CapellaInteractionOutput11111111111117">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean11111111111117"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_TOOO531111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_3Ext11111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_OperationalEntityscenario1_OperationalEntity1_96279009111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__75118720111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_CapellaInteractionOutput11111111111116">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean11111111111116"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_abLIt2141111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_3FRO261111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_CapellaInteractionOutput11111111111115">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean11111111111115"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean11811111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_model_Capella_OperationalArchitectureDiagram11111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_CapellaInteractionOutput11111111111114">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean11111111111114"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_relationshipPropertyIns_metaProperty_NNAMEE811114111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_relationship_Afunctionexchange11121111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_1311111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint231116111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRel_graphRel_Capella_LogicalArchitectureBlank_Capella_CommunicationMean111111111111">
+    <rdfs:subClassOf rdf:resource="#graph_Capella_LogicalArchitectureBlank11111111111"/>
+  </owl:Class>
+  <owl:Class rdf:about="#text_99,326"/>
+  <owl:Class rdf:ID="roleIns_roleIns_Capella_InteractionInput11110111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean11110111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_关联进口"/>
+  <owl:Class rdf:ID="rolePoint_rolePoint_metaObjPoint_Capella_EntryPoint26_32307633111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__60711012111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_642,192"/>
+  <owl:Class rdf:about="#text_2,406,531,159,104"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaInterfaceScenario_Capella_System_061459491111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_TIMMESOTUP_117490611111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="role_CapellaAcquireInput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="role_ContainedInOutput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="decompositeModel_decompositeModel_Capella_LogicalArchitectureBlank115111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_LogicalComponent11113111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_1121">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint12111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_Capella_InteractionInput1111122111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean1111122111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_SystemArchitectureDiagram_Capella_System2_2204391311111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__5758075611111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_1122">
+    <rdfs:subClassOf rdf:resource="#pointIns_pointIns_metaObjPoint_Input111111111111113"/>
+  </owl:Class>
+  <owl:Class rdf:ID="objectIns_objectIns_object_SystemFunction11121111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_graph_objectIns_Capella_System21111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_712,136"/>
+  <owl:Class rdf:ID="roleIns_roleIns_CapellaInteractionOutput111241111111111">
+    <rdfs:subClassOf rdf:resource="#relationshipIns_relationshipIns_Capella_CommunicationMean111101111111111"/>
+  </owl:Class>
+  <owl:Class rdf:ID="object_Capella_Mode1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint271131111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_OperationalActor11131111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_101,53"/>
+  <owl:Class rdf:ID="graphRole_graphRole_OperationalActivityInteractionDiagram1_Capella_InteractionInput1111111111111">
+    <rdfs:subClassOf rdf:resource="#graph_OperationalActivityInteractionDiagram1111111111111"/>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaDetailInterfaceDiagram_BehaviorPC1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaDetailInterfaceDiagram111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_Capella_InteractionInput11111111111211">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_Capella_CommunicationMean11111111111211"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_BehaviorPC_361040911111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_GENSTA_466546511111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_CIBD_Capella_Interface1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_Capella_CIBD1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_使用"/>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_1132">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output121111111111118"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_Capella_Final.png"/>
+  <owl:Class rdf:ID="object_CapellaEvent1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_1131">
+    <rdfs:subClassOf rdf:resource="#pointIns_pointIns_metaObjPoint_Input111111111111117"/>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_BehaviorPC_139243771111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_IMProvesTARrt_393449061111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_2,794,183,762,576"/>
+  <owl:Class rdf:ID="relRole_relRole_OSSA3in_141681401111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_Capella_ClassDiagram_Capella_Association1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="objectIns_objectIns_object_LogicalFunction1115111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_LogicalArchitectureBlank11111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_AcYto141_14703823111111111111">
+    <rdfs:subClassOf rdf:resource="#relRole_relRole_ACTGENoUTPP_88924236111111111111"/>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_OperationalActor_849550291111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_IMProveOutput_771607481111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="rolePoint_rolePoint_metaObjPoint_ExitPoint15_24802507111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__37903187111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole__0473394511111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_Capella_SystemArchitectureDiagram_Capella_CommunicationMean111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_ExchangeScenario_SystemFunction_805712191111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_ExchAngggeiinn_780061111111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_OperationalEntity_690249551111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_GENOPT_459471331111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_TOOO651111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_CCCTEND51111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_组分传输"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_Capella_Role1_91525027111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__33551999111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_OperationalEntityscenario1_Capella_Mode1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_Capella_OperationalEntityscenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_OperationalEntityscenario1_Capella_continuous1_87817701111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__00714868111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_106,157,140,70"/>
+  <owl:Class rdf:ID="text_过度起始"/>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_183">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint2411111111111122"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaInterfaceScenario_NodePC_527273501111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_SEQUencceStarrtt_614175241111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_181">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output12111111111119"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="rolePoint_rolePoint_metaObjPoint_Capella_EntryPoint21_7577409911111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_FUNCCCEXCOPT_9466027611111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_182">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output1111111111111113"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRel_graphRel_NAHH1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_PhysicalArchitectureBlank111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="decompositeModel_decompositeModel_Capella_LogicalArchitectureBlank116111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_LogicalComponent11114111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_PDFB&lt;&amp;space&gt;物理数据流图"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_OperationalActor1_97970912111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__33551999111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_CapellaInteractionOutput111221111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_relationship_Afunctionexchange111131111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="role_CapellaAssociationOutput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="object_object_LogicalComponent1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graph_Capella_ModesAndStateMachinediagram1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_代表"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_Capella_Role_280230191111111111111">
+    <rdfs:subClassOf rdf:resource="#relRole_relRole_SNEDIn_734122061111111111111"/>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_CapellaInteractionOutput11111111111211">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relationshipIns_relationshipIns_Capella_CommunicationMean11111111111211"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="decompositeModel_decompositeModel_Capella_PhysicalDataFlowBlank1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_BehaviorPC1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_112111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint18151111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_OperationalCapabilitiesdiagram_OperationalEntity1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_OperationalCapabilitiesdiagram1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_101,65"/>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_211111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint121111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRole_graphRole_Capella_OperationalEntityscenario1_Capella_InteractionInput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_Capella_OperationalEntityscenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_192">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output121111111111128"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_191">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input11111111111119"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint12111111112111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRole_graphRole_Capella_SystemFunctionDataflowBlankDiagram1_Capella_InteractionInput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_SystemFunctionDataflowBlankDiagram1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_OperationalActor_333007171111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_GGEtOOutt_044657641111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaInterfaceScenario_Capella_System_954787001111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_SEquenceMseeOuut_753481571111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint271111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_OperationalActor1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_EPBS_NodePC1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_EAB1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_NodePC_480991561111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_DELOUTT_328262391111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#graphRel_graphRel_CapellaDetailInterfaceDiagram_CapellaTransmit1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaDetailInterfaceDiagram111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_LogicalDataFlowBlank_ActorFunction1_25419232111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_INNESTEA_89864241111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_OperationalEntityscenario1_Capella_continuous1_75932846111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__31879870111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyOfMeta_metaProperty_property_Name1191111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="object_Capella_continuous1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_CRAAMSEinN_062656251111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_CapellaInterfaceScenario_Capella_CreateMessage1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_161">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint221111111111119"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_SystemArchitectureDiagram_SystemFunction1_5492246211111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__5304889911111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_162">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint131111111111115"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_211111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint1731111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_实施终端"/>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint17111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_OperationalEntity1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="objPoint_metaObjPoint_Capella_EntryPoint26111111111111">
+    <rdfs:subClassOf rdf:resource="#object_Capella_System2111111111111"/>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_BehaviorPC1_37468272111111111111">
+    <rdfs:subClassOf rdf:resource="#relRole_relRole__78914073111111111111"/>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_163">
+    <rdfs:subClassOf rdf:resource="#pointIns_pointIns_metaObjPoint_Input111111111111121"/>
+  </owl:Class>
+  <owl:Class rdf:about="#text_234,108"/>
+  <owl:Class rdf:ID="decompositeModel_decompositeModel_Capella_SystemArchitectureDiagram12211111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_OperationalActor1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaInterfaceScenario_Capella_System_155251751111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_CReaTEMSEEAOTT_600624661111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_objectPropertyIns_objProperty_name21111161111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_ActorFunction11151111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_OperationalEntityscenario1_Capella_continuous1_70575367111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__37761282111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_CapellaInterface1_53490138111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__36730997111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_FunctionalScenario_SystemFunction1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_Capella_FunctionalScenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_68,40,140,70"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_OperationalEntityscenario1_Capella_Role1_37456395111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__37761282111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_172">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint241111111111113"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output1211111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_PhysicalFunction1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_173">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output1111111111111112"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_171">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Input11111111111118"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint111121111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_ActorFunction11121111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_1319,137,140,70"/>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint211191111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_ActorFunction11191111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_362,317"/>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_174">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint1311111111111127"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="rolePoint_rolePoint_metaObjPoint_ExitPoint13_38301394111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__33551999111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_CapellaImplements.png"/>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_ExchangeScenario_OperationalEntity1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_ExchangeScenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="model_model_Capella_LogicalArchitectureBlank141111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_燃料参数入口"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_LogicalArchitectureBlank_OperationalActor1_4341407511111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__0044875911111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_NodePC_594820581111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_SNEDIn_166982061111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_48,171,140,70"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_CapellaUndefinedExchange_228383301111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_IMProvesTARrt_393449061111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint161151111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_OperationalActor11121111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_需求"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_CapellaData1_93290520111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__36730997111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_BehaviorPC1_29944328111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__39915644111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationshipIns_relationshipIns_relationship_Afunctionexchange11171111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_model_Capella_LogicalArchitectureBlank121111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRole_graphRole_Capella_LogicalDataFlowBlank1_CapellaInteractionOutput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_LogicalDataFlowBlank1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_ExchangeScenario_NodePC1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_Capella_ExchangeScenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_提供特性"/>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_143">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output121111111111126"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_141">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output121111111111123"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_142">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint1311111111111119"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="objectIns_objectIns_object_LogicalComponent1111811111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_LogicalArchitectureBlank1101111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#relRole_relRole_SEQUencceStarrtt_614175241111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_CapellaInterfaceScenario_CapellaSequenceMessage1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="rolePoint_rolePoint_metaObjPoint_Capella_EntryPoint24_14854575111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__09654996111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_717,59"/>
+  <owl:Class rdf:ID="text_组分计算"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_OAS_Capella_continuous_591655371111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_RETTUOUTPP_080480891111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_EPBS_Capella_HW_256388781111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_HINTO_615017741111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_TOOO451111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_CCCTEND11111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_151">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output121111111111120"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_CapellaUndefinedExchange_674337461111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_IMPOPT_672590511111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_abLIt2261111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_TOOO551111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_ModesAndStateMachinediagram_Capella_State_665791551111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_Overinitiation_422601101111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_152">
+    <rdfs:subClassOf rdf:resource="#pointIns_pointIns_metaObjPoint_Input111111111111140"/>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_ACTORFuNCtion4111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_SystemFunctionBreakdownDiagram1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="object_Capella_COTS1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyOfMeta_objProperty_name6111111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="object_object_LogicalFunction1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="objectIns_objectIns_object_LogicalFunction111191111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_model_Capella_LogicalArchitectureBlank161111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_温度显示"/>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111130">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_model_Capella_PhysicalDataFlowBlank111111111111112"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_2,70,189,82,105"/>
+  <owl:Class rdf:ID="decomposite_decomposite_366970431111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphObj_graphObj_Capella_LogicalArchitectureBlank_OperationalActor111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_93,622"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_AcYtoFUNCCC11_36339576111111111111">
+    <rdfs:subClassOf rdf:resource="#relRole_relRole_INNESTEA_96278436111111111111"/>
+  </owl:Class>
+  <owl:Class rdf:about="#text_128,223"/>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaCEI_BehaviorPC1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaCEI1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="role_CapellaGenrealizationOutput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_125">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint1311111111111126"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_123">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output121111111111125"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_BehaviorPC1_50829365111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__61723999111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_124">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output121111111111116"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_121">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output12111111111116"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_122">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint22111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_relationshipPropertyIns_metaProperty_NNAMEE811161111111111">
+    <rdfs:subClassOf rdf:resource="#relationshipIns_relationshipIns_relationship_Afunctionexchange11171111111111"/>
+  </owl:Class>
+  <owl:Class rdf:about="#text_116,212"/>
+  <owl:Class rdf:about="#text_173,268"/>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111120">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111118"/>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRole_graphRole_CapellaDetailInterfaceDiagram_CapellaattachedOutput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaDetailInterfaceDiagram111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111121">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111118"/>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_ExchangeScenario_BehaviorPC_140473311111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_EXChaNGeoT_539022291111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_relationshipPropertyIns_metaProperty_NNAMEE81111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_relationship_Afunctionexchange1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_515,211"/>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111124">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111119"/>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111125">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_model_Capella_PhysicalDataFlowBlank111111111111110"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111122">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111119"/>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111123">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111119"/>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint161131111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_OperationalActor11131111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111128">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="model_model_Capella_PhysicalDataFlowBlank111111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111129">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalDataFlowBlank111111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111126">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111119"/>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111127">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#model_model_Capella_PhysicalDataFlowBlank111111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_ExchangeScenario_LogicalFunction_547926691111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_EXChaNGeoT_539022291111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_256,219"/>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaCEI_OperationalEntity1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaCEI1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_relationshipPropertyIns_metaProperty_NNAMEE811151111111111">
+    <rdfs:subClassOf rdf:resource="#relationshipIns_relationshipIns_relationship_Afunctionexchange11161111111111"/>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_132">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output121111111111137"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_131">
+    <rdfs:subClassOf rdf:resource="#pointIns_pointIns_metaObjPoint_Input111111111111126"/>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_UESSStat_167928951111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_CapellaCEI_CapellaUses1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_1059,366,375,280"/>
+  <owl:Class rdf:about="#text_229,214"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_AcYtoFUNCCC11_80535430111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_INcluDDEOUputt_97581847111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_2,349,410,183,282"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaInterfaceScenario_SystemFunction_522280781111111111111">
+    <rdfs:subClassOf rdf:resource="#relRole_relRole_CRAAMSEinN_062656251111111111111"/>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111110">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111113"/>
+  </owl:Class>
+  <owl:Class rdf:about="#text_924,396"/>
+  <owl:Class rdf:about="#graphRel_graphRel_CapellaCEI_CapellaUses1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaCEI1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111113">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111113"/>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_ModesAndStateMachinediagram_Capella_Mode_940231051111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_Overinitiation_422601101111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111114">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111115"/>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyOfMeta_metaProperty_property_Name1101111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="object_Capella_DeepHistory1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111111">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111113"/>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRel_graphRel_CapellaCEI_CapellaProvide1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaCEI1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111112">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111114"/>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111117">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111117"/>
+  </owl:Class>
+  <owl:Class rdf:ID="text_消息重点"/>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111118">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111117"/>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_SEQMSSAOPUT_319066171111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_CapellaInterfaceScenario_CapellaSequenceReturn1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111115">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111116"/>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_CapellaInteractionOutput11110111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relationshipIns_relationshipIns_Capella_CommunicationMean11110111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111116">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111117"/>
+  </owl:Class>
+  <owl:Class rdf:ID="rolePoint_rolePoint_metaObjPoint_ExitPoint12_39832852111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__33551999111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#objectIns_objectIns_object_PhysicalFunction111111111111119">
+    <rdfs:subClassOf rdf:resource="#model_model_Capella_PhysicalDataFlowBlank11111111111118"/>
+  </owl:Class>
+  <owl:Class rdf:ID="text_输出"/>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_101">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output1111111111111117"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_102">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Output121111111111124"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_objectPropertyIns_objProperty_3NAME10111111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_Capella_System21111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_OperationalEntity1_99333434111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__39915644111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_Capella_Role1_43078736111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole__39915644111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="rolePoint_rolePoint_metaObjPoint_Capella_EntryPoint24_19863796111111111111">
+    <rdfs:subClassOf rdf:resource="#relRole_relRole__71983036111111111111"/>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_relationshipPropertyIns_metaProperty_NNAMEE811141111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relationshipIns_relationshipIns_relationship_Afunctionexchange11151111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_Capella_Role_115833561111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_SEnddout_691547221111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_515,237"/>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_116">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint221111111111118"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns_201111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint1671111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="rolePoint_rolePoint_metaObjPoint_Output11_90505806111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__85614829111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_2,266,455,762,523"/>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_ExitPoint161141111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#objectIns_objectIns_object_OperationalActor11131111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+</rdf:RDF>

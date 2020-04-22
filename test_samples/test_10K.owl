@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns="http://www.owl-ontologies.com/unnamed.owl#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xml:base="http://www.owl-ontologies.com/unnamed.owl">
+  <owl:Ontology rdf:about=""/>
+  <owl:Class rdf:ID="propertyIns_objectPropertyIns_objProperty_name211111101111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_ActorFunction11191111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRole_graphRole_CapellaDetailInterfaceDiagram_CapellaProvideOutput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_CapellaDetailInterfaceDiagram111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_Capella_System_599093561111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_IMProvesTARrt_393449061111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_ABLIGENStAr_91416100111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_Capella_ContextualCapability_Capella_CapabilityGeneralization1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationship_CapellaGenrealization1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_CapellaEvent.png"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_CapellaData_448575941111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_IMPOPT_672590511111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relationship_CapellaAcquire1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_CapellaUndefinedExchange_224271801111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_GGTsTART_336890161111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_LogicalArchitectureBlank_LogicalComponent1_8953215511111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__8803363711111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_CIBD_Capella_CS_748567771111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_CONIN3_715325541111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_150,101,140,70"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_OperationalEntity_386042651111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_GGEtOOutt_669561401111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_Capella_FunctionalScenario_PhysicalFunction1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_Capella_FunctionalScenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaCII_CapellaEvent1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_CapellaCII1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_Capella_Role_562564561111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_GGEtOOutt_044657641111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_Capella_EntryPoint1_729487741111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_GGEtOOutt_669561401111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_OperationalActor1_97066921111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__36730997111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_LogicalComponent_286377831111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_SEnddout_691547221111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint271121111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_OperationalActor11121111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="relRole_relRole_FUNctionEXCINpyt_86577533111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graphRel_graphRel_Capella_SystemFunctionDataflowBlankDiagram_Afunctionexchange1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRel_graphRel_CapellaCII_CapellaTransmit1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaCII1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_OperationalActor_034427281111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_UUUSEOPT_616373081111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_LogicalComponent_055608181111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_SEnddout_482836251111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_CapellaFlow_229371431111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_GGEtOOutt_669561401111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleIns_roleIns_CapellaInteractionOutput111231111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relationshipIns_relationshipIns_relationship_Afunctionexchange111141111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_479,203"/>
+  <owl:Class rdf:about="#text_2,295,400,309,310"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_ModeStateMachineDiagram_Capella_join_199920951111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_ExcessiveTerminal_503720251111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaInterfaceScenario_SystemFunction1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_CapellaInterfaceScenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_ModeStateMachineDiagram_Capella_ShallowHistory_462501281111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_Overinitiation_856077971111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaDetailInterfaceDiagram_CapellaData1_95533510111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__71983036111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_924,432"/>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaInterfaceScenario_Capella_System1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaInterfaceScenario1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="propertyIns_objectPropertyIns_objProperty_name91111114111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_LogicalComponent11113111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_OperationalActor_463978221111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_IMPOPT_672590511111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:about="#text_448,133"/>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCEI_OperationalActor_612952201111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#relRole_relRole_SEnddout_482836251111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRole_graphRole_CapellaCII_CapellaProvideOutput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#graph_CapellaCII1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_graph_objectIns_object_OperationalEntity121111111111"/>
+  <owl:Class rdf:ID="propertyIns_pointPropertyIns111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="pointIns_pointIns_metaObjPoint_Capella_EntryPoint23111112211111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="object_Capella_Terminate1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graph_Capella_OperationalActivityBreakdownDiagram1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="rolePoint_rolePoint_metaObjPoint_ExitPoint1_69261647111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_FUNctionEXCINpyt_28465278111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphObj_graphObj_CapellaCEI_OperationalActor1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_CapellaCEI1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="text_model_Capella_LogicalArchitectureBlank131111111111"/>
+  <owl:Class rdf:ID="model_model_Capella_LogicalArchitectureBlank131111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="#language_language_Capella1111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_Capella_OperationalEntityscenario1_Capella_Role1_36192212111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole__53028961111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+</rdf:RDF>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xml:base="http://www.owl-ontologies.com/unnamed.owl">
+  <owl:Ontology rdf:about=""/>
+  <owl:Class rdf:ID="propertyIns_objectPropertyIns_objProperty_name211111101111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="objectIns_objectIns_object_ActorFunction11191111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="graphRole_graphRole_CapellaProvideOutput1111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="graph_InterfaceDiagram111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+  <owl:Class rdf:ID="roleObj_roleObj_graphObj_CapellaCII_Capella_System_599093561111111111111">
+    <rdfs:subClassOf>
+      <owl:Class rdf:ID="relRole_relRole_IMProvesTARrt_393449061111111111111"/>
+    </rdfs:subClassOf>
+  </owl:Class>
+</rdf:RDF>
